@@ -4,7 +4,7 @@ const FeedbackContext = createContext()
 
 export const FeedbackProvider = ({children}) => {
 
-    const [Feedbacks, setFeedbacks] = useState([{}
+    const [Feedbacks, setFeedbacks] = useState([
 ])
 
 
